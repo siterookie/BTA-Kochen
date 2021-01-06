@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+#header {
+  height: 64px;
+}
+#logo {
+  height: 40px;
+}
+#menu-button {
+  background-color: transparent;
+  border: none;
+  al
+}
+/* Liste ohne Aufzählungspunkte */
+#navigation {list-style-type: none}
+
+a {
+color: black;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: bold;
+}
